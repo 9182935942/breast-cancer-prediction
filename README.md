@@ -20,16 +20,6 @@ Breast cancer is a leading cause of mortality among women. This project leverage
  **Results**
  **Logistic Regression** performed best with **97% accuracy**, showing reliable classification of breast cancer cases.
  **Decision Tree** model achieved **93.5% accuracy**, useful for interpretability.
-
-**Installation**
-1. Clone the repository:
-   git clone https://github.com/yourusername/breast-cancer-prediction.git
-2. Navigate to the folder:
-   cd breast-cancer-prediction
-3. Install dependencies:
-   pip install -r requirements.txt
-4. Run the project:
-   jupyter notebook
   
 **Usage**
 - Open the **Breast_Cancer.ipynb** notebook.
